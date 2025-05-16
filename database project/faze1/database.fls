@@ -1,8 +1,8 @@
-PWD /home/behraz/vscode_workspace/latex/DB/database project
+PWD /home/behraz/vscode_workspace/latex/DB/database project/faze1
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /usr/share/texlive/texmf-dist/web2c/texmf.cnf
 INPUT /var/lib/texmf/web2c/pdftex/pdflatex.fmt
-INPUT /home/behraz/vscode_workspace/latex/DB/database project/database.tex
+INPUT /home/behraz/vscode_workspace/latex/DB/database project/faze1/database.tex
 OUTPUT database.log
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
 INPUT /usr/share/texlive/texmf-dist/tex/latex/base/article.cls
@@ -520,12 +520,12 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT ./faze1/database.png
-INPUT ./faze1/database.png
-INPUT ./faze1/database.png
-INPUT ./faze1/database.png
+INPUT ./database.png
+INPUT ./database.png
+INPUT ./database.png
+INPUT ./database.png
 OUTPUT database.pdf
-INPUT ./faze1/database.png
+INPUT ./database.png
 INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
