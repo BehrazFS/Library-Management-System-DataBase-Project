@@ -520,12 +520,12 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT /usr/share/texlive/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT /home/behraz/vscode_workspace/latex/DB/database project/faze1/database.png
-INPUT /home/behraz/vscode_workspace/latex/DB/database project/faze1/database.png
-INPUT /home/behraz/vscode_workspace/latex/DB/database project/faze1/database.png
-INPUT /home/behraz/vscode_workspace/latex/DB/database project/faze1/database.png
+INPUT ./faze1/database.png
+INPUT ./faze1/database.png
+INPUT ./faze1/database.png
+INPUT ./faze1/database.png
 OUTPUT database.pdf
-INPUT /home/behraz/vscode_workspace/latex/DB/database project/faze1/database.png
+INPUT ./faze1/database.png
 INPUT /usr/share/texlive/texmf-dist/fonts/map/fontname/texfonts.map
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 INPUT /var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map
