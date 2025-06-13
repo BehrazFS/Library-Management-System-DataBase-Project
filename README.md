@@ -104,7 +104,7 @@ faze 2 : implementation using sql server and python(Kivy framework for UI)
  If you see warnings about `xclip` or `xsel`, install them with:
   ```sh
   sudo apt install xclip xsel
- ```
+  ```
  Or ignore if you don't need clipboard support.
 
 - **Database Connection Errors:**
