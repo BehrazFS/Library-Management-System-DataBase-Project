@@ -1,9 +1,9 @@
 # Library Management System (Kivy)
 
 A modern, tabbed, multi-role library management UI built with [Kivy](https://kivy.org/) in Python.  
-This project provides a clean, extensible interface for both **members** and **librarians** to interact with a library database.
-This was the final project of database course
-faze 1 : semantic and logical design of database
+This project provides a clean, extensible interface for both **members** and **librarians** to interact with a library database.<br>
+This was the final project of database course<br>
+faze 1 : semantic and logical design of database<br>
 faze 2 : implementation using sql server and python(Kivy framework for UI)
 ---
 
@@ -66,6 +66,10 @@ faze 2 : implementation using sql server and python(Kivy framework for UI)
     ```
 
 3. **Set up the database:**
+    - run
+    ```sh
+    docker run -e 'ACCEPT_EULA=Y' -e 'SA_PASSWORD=Str0ngPassw0rd!' -p 1433:1433 --name sql1 -d mcr.microsoft.com/mssql/server:2022-latest
+    ```
     - Use the provided `code.sql` to create and initialize your SQL Server database.
     - Update the connection string in `database.py` if needed.
 
