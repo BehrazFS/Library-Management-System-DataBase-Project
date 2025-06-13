@@ -3,8 +3,8 @@
 A modern, tabbed, multi-role library management UI built with [Kivy](https://kivy.org/) in Python.  
 This project provides a clean, extensible interface for both **members** and **librarians** to interact with a library database.<br>
 This was the final project of database course<br>
-faze 1 : semantic and logical design of database<br>
-faze 2 : implementation using sql server and python(Kivy framework for UI)
+Phase 1 : semantic and logical design of database<br>
+Phase 2 : implementation using sql server and python(Kivy framework for UI)
 ---
 
 ## Features
@@ -81,9 +81,9 @@ faze 2 : implementation using sql server and python(Kivy framework for UI)
 ---
 
 ## Project Structure
-### Faze 1 :
+### Phase 1 :
 - `database.pdf` — Semantic and logical design of  database
-### Faze 2 :
+### Phase 2 :
 - `main.py` — Main application logic and screen management.
 - `database.py` — Database connection and query logic.
 - `library.kv` — Kivy UI definitions (tabs, layouts, widgets).
