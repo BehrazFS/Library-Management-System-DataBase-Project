@@ -79,6 +79,7 @@ faze 2 : implementation using sql server and python(Kivy framework for UI)
 ## Project Structure
 # Faze 1 :
 - `database.pdf` — Semantic and logical design of  database
+# Faze 2 :
 - `main.py` — Main application logic and screen management.
 - `database.py` — Database connection and query logic.
 - `library.kv` — Kivy UI definitions (tabs, layouts, widgets).
